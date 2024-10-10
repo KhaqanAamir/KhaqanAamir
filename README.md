@@ -28,13 +28,13 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, No
 
 ### Skills
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
   - Frontend: HTML, CSS, JavaScript, React.js, Next.js  
   - Backend: Node.js, Express/Nest, MongoDB, RESTful APIs
   - Database: MongoDB, Postgresql, MySQL
   - Version Control: Git, GitHub
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mhmdnauman-red?style=flat&logo=Gmail&logoColor=white)](mailto:khaqanaamir92@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-khaqanaamir-red?style=flat&logo=Gmail&logoColor=white)](mailto:khaqanaamir92@gmail.com)
 
  ### :hammer_and_wrench: Languages and Tools :
  <div>
