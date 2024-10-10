@@ -54,12 +54,6 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, No
   
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/)]()
-
-[![Khaqans's GitHub stats](https://github-readme-stats.vercel.app/api?)]()
 
 ### Projects
 
